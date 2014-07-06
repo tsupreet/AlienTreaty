@@ -1,0 +1,5 @@
+Code Name: a
+Blood Color: a
+No of Antennas: 1
+No of Legs: 2
+Home Planet: a
